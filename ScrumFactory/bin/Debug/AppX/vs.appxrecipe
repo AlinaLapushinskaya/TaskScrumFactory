@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-4HCPJ42</Machine>
+    <WindowsUser>Admin-ПК</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>442fc2ca-c6f5-4699-8711-75038aee0d5a</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Admin-ПК</PackageIdentityPublisher>
+    <IntermediateOutputPath>c:\users\admin-пк\source\repos\ScrumFactory\ScrumFactory\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>
+    </WindowsSdkPath>
+    <LayoutDir>c:\users\admin-пк\source\repos\ScrumFactory\ScrumFactory\bin\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>DA3451006EE43331A75644FCE8E9F52595EFCADCD50D539E2429DE1CF42BCA07</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>442fc2ca-c6f5-4699-8711-75038aee0d5a_1.0.0.0_neutral__grzqyjw4y0kgj</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>442fc2ca-c6f5-4699-8711-75038aee0d5a_grzqyjw4y0kgj!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>442fc2ca-c6f5-4699-8711-75038aee0d5a</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Admin-ПК</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\admin-пк\source\repos\ScrumFactory\ScrumFactory\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-07-31T10:04:39.338</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\admin-пк\source\repos\ScrumFactory\ScrumFactory\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2019-07-31T10:21:13.378</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\admin-пк\source\repos\ScrumFactory\ScrumFactory\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2017-09-10T14:55:29.904</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\admin-пк\source\repos\ScrumFactory\ScrumFactory\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-09-10T14:55:29.904</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\admin-пк\source\repos\ScrumFactory\ScrumFactory\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-09-10T14:55:29.904</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\admin-пк\source\repos\ScrumFactory\ScrumFactory\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-09-10T14:55:29.904</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\admin-пк\source\repos\ScrumFactory\ScrumFactory\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-09-10T14:55:29.904</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\admin-пк\source\repos\ScrumFactory\ScrumFactory\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-09-10T14:55:29.904</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\admin-пк\source\repos\ScrumFactory\ScrumFactory\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-09-10T14:55:29.904</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\admin-пк\source\repos\ScrumFactory\ScrumFactory\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+      <Modified>2019-07-31T10:20:19.997</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\admin-пк\source\repos\ScrumFactory\ScrumFactory\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2019-07-31T09:19:23.236</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\admin-пк\source\repos\ScrumFactory\ScrumFactory\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-07-31T10:04:38.466</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
